@@ -1,0 +1,2 @@
+# rustt
+beginner rust trial 
